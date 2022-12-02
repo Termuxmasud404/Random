@@ -415,7 +415,7 @@ class Main:
 		print(logo)
 		print("")
 		print("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -")
-		print("\033[1;37mNOTE : APPROVAL K LIYE FACEBOOK PR FOLLOW KR DEN")
+		print("\033[1;37mNOTE : APPROVAL YOUTUBE CHANNEL SUBSCRIBE KORE DEN")
 		print("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ")
 		
 		
